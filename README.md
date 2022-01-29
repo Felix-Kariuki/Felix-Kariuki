@@ -2,7 +2,7 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Felix-Kariuki&show_icons=true&theme=radical"/>
 
- <!--<img align="left" width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felix-Kariuki&layout=compact)](https://github.com/anuraghazra/github-readme-   stats"/>-->
+<img align="left" width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felix-Kariuki&layout=compact)](https://github.com/anuraghazra/github-readme-   stats"/>
 
 <!--
 **Felix-Kariuki/Felix-Kariuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
