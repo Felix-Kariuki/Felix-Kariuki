@@ -4,6 +4,10 @@
 
 <!--<img align="left" width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felix-Kariuki&layout=compact)](https://github.com/anuraghazra/github-readme-   stats"/>-->
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Felix-Kariuki&show_icons=true&locale=en&layout=compact" alt="Felix-Kariuki" /></p>
+
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Felix-Kariuki&" alt="Felix-Kariuki" /></p>-->
+
 <!--
 **Felix-Kariuki/Felix-Kariuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
