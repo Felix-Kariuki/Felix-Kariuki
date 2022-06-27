@@ -6,6 +6,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Felix-Kariuki&show_icons=true&locale=en&layout=compact" alt="Felix-Kariuki" /></p>
 
+
+- 📫 How to reach me: [Twitter](https://twitter.com/felixkariuki_); [LinkedIn](https://www.linkedin.com/in/felix-kariuki/)
+
+- 😄 Pronouns: He/Him
+
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Felix-Kariuki&" alt="Felix-Kariuki" /></p>-->
 
 <!--
