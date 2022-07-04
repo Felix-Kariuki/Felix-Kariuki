@@ -12,7 +12,7 @@
 
 <!--<img align="left" width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felix-Kariuki&layout=compact)](https://github.com/anuraghazra/github-readme-   stats"/>-->
 
-<p><img align="center" width ="30%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Felix-Kariuki&show_icons=true&locale=en&layout=compact" alt="Felix-Kariuki" /></p>
+<p><img align="center" width ="32%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Felix-Kariuki&show_icons=true&locale=en&layout=compact" alt="Felix-Kariuki" /></p>
 
 
 
