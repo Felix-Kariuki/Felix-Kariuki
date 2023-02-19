@@ -5,7 +5,7 @@
 - 😄 Pronouns: He/Him
 
 - ⚡ Make everyday a learning experience.
-- 💻 Actively looking for opportunities (work || collaboration)
+- 💻 Actively looking for opportunities (collaboration)
 
 ### Now Playing — Spotify 🎧
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=317foij76626zoxsuewpjhlni7ni&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=317foij76626zoxsuewpjhlni7ni&redirect=true)
