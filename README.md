@@ -8,7 +8,7 @@
 - 💻 Actively looking for opportunities (collaboration)
 
 ### Now Playing — Spotify 🎧
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=317foij76626zoxsuewpjhlni7ni&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=317foij76626zoxsuewpjhlni7ni&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=317foij76626zoxsuewpjhlni7ni&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=317foij76626zoxsuewpjhlni7ni&redirect=true) 
 
 
 <!--<img align="left" width="44%" src="https://github-readme-stats.vercel.app/api?username=Felix-Kariuki&show_icons=true&theme=radical"/>-->
