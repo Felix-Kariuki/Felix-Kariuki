@@ -2,9 +2,10 @@
 
 - 📫 How to reach me: [Twitter](https://twitter.com/felixkariuki_); [LinkedIn](https://www.linkedin.com/in/felix-kariuki/)
 
-- 😄 Pronouns: He/Him
 
 - ⚡ Make everyday a learning experience.
+
+  
 - 💻 Actively looking for opportunities (collaboration)
 
 ### Now Playing — Spotify 🎧
